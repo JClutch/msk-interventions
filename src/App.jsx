@@ -52,7 +52,7 @@ const App = () => {
       <div>
         <SearchBar onChange={setSearch} />
         <Button onClick={onSearch} />
-        {displaySearch !== false ? <h3> Search Results for "{searchString}"</h3> : null}
+        {displaySearch !== false ? <h3> Search Results for "{displaySearch}"</h3> : null}
       </div>
       {
           /* Display Category Filter if we have more than 1 category */
