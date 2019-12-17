@@ -33,7 +33,10 @@ const App = () => {
       setCategories([...categories])
       setResults(res.terms)
       setDisplayResults(res.terms);
-    }).catch()
+    }).catch((err) => {
+      /* Could display to user */
+      console.error(err);
+    })
   }
 
   const onFilter = (f) => {

@@ -1,7 +1,6 @@
 import axios from 'axios';
 import { interventions } from '../urls';
 
-
 export const interventionSearch = (params) => {
     const { name } = params;
     const cachedData = localStorage.getItem(name);
