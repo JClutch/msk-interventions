@@ -22,7 +22,7 @@ npm start
 ![Alt text](/src/images/desktop-demo-screenshot.png?raw=true "desktop")
 
 ### Mobile
-![Alt text](/public/images/mobile-demo-screenshot.png?raw=true "mobile")
+![Alt text](/src/images/mobile-demo-screenshot.png?raw=true "mobile")
 
 ## Future Thoughts
 - Unit / Integration Tests
