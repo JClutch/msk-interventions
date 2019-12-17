@@ -2,7 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## `To get started:`
+## To get started:
+
+*Requires Node.js*
 
 ```
 git clone https://github.com/JClutch/msk-interventions.git
